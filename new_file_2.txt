@@ -1,2 +1,3 @@
 new_file_branch2
 1st modified
+2nd modified
